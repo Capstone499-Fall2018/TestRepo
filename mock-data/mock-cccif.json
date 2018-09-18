@@ -1,0 +1,32 @@
+{
+    "unid": 134632,
+    "dateOfBirth": "2017-10-10 06:00:34.4",
+    "sex": "Male",
+    "firstNameEn": "Nick",
+    "secondNameEn": "Wagner",
+    "firstNameTh": null,
+    "secondNameTh": null,
+    "nationality": "Thai",
+    "originCountry": "USA",
+    "passport": null,
+    "pinkCard": 2,
+    "thai": 17,
+    "home":{
+        "address": "502 124th st s",
+        "city": "Parkland",
+        "postalCode": "98444",
+        "country": "USA"
+    },
+    "work":{
+        "address": "502 124th st s",
+        "city": "Parkland",
+        "postalCode": "98444",
+        "country": "USA"
+    },
+    "employer":{
+        "address": "502 124th st s",
+        "city": "Parkland",
+        "postalCode": "98444",
+        "country": "USA"
+    } 
+}

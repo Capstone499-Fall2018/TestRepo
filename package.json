@@ -1,0 +1,28 @@
+{
+  "name": "irespond",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "build:prod": "cross-env NODE_ENV=PRODUCTION node cross-env.js",
+    "build:mock": "cross-env NODE_ENV=MOCK node cross-env.js"
+  },
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "body-parser": "*",
+    "cross-env": "^5.2.0",
+    "express": "*",
+    "jsonwebtoken": "^8.3.0",
+    "nodemon": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "passport-local": "*",
+    "password-hash": "^1.2.2",
+    "pg": "*",
+    "pg-format": "*"
+  },
+  "author": "Nick Wagner",
+  "license": "ISC"
+}
